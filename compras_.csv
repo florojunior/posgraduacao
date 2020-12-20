@@ -1,0 +1,499 @@
+pais_origem,uf_origem,cidade_origem,pais_destino,uf_destino,cidade_destino,valor,data,horaminuto,hora_voo,mes
+Brasil,Distrito Federal,Brasília,Brasil,Rio Grande do Norte,Natal,"529,57",16/08/2019,12:43,12,8
+Brasil,Rio Grande do Norte,Natal,Brasil,Distrito Federal,Brasília,"522,04",16/08/2019,12:43,12,8
+Brasil,São Paulo,São Paulo,Brasil,Distrito Federal,Brasília,"627,42",27/08/2019,19:52,19,8
+Brasil,Rio de Janeiro,Rio de Janeiro,Portugal,,Lisboa,"3451,84",07/01/2020,13:25,13,7
+Portugal,,Lisboa,Brasil,Rio de Janeiro,Rio de Janeiro,"3451,84",07/01/2020,13:25,13,7
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Rio Grande do Sul,Porto Alegre,"864,75",17/12/2019,16:00,16,12
+Polônia,,Varsóvia,Brasil,Rio de Janeiro,Rio de Janeiro,"2250,1",29/01/2020,10:44,10,1
+Brasil,Rio de Janeiro,Rio de Janeiro,Polônia,,Varsóvia,"2250,1",29/01/2020,10:45,10,1
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Distrito Federal,Brasília,"221,85",11/11/2019,12:34,12,11
+Brasil,Distrito Federal,Brasília,Brasil,Rio de Janeiro,Rio de Janeiro,"237,57",11/11/2019,12:57,12,11
+Brasil,São Paulo,São Paulo,Brasil,Distrito Federal,Brasília,"278,59",11/11/2019,12:57,12,11
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,São Paulo,São Paulo,"448,75",11/11/2019,12:57,12,11
+Brasil,Pará,Belém,Brasil,Pernambuco,Recife,"952,85",11/11/2019,12:41,12,11
+Brasil,Pernambuco,Recife,Brasil,Distrito Federal,Brasília,"791,95",11/11/2019,12:41,12,11
+Brasil,Distrito Federal,Brasília,Brasil,Amazonas,Manaus,"865,57",14/01/2020,11:08,11,1
+Brasil,Amazonas,Manaus,Brasil,Pará,Belém,"900,85",11/11/2019,12:41,12,11
+Brasil,Pará,Belém,Brasil,Pernambuco,Recife,"589,85",23/12/2019,14:31,14,12
+Brasil,Distrito Federal,Brasília,Brasil,Minas Gerais,Belo Horizonte,"231,36",17/09/2019,18:13,18,9
+Brasil,Minas Gerais,Belo Horizonte,Brasil,Distrito Federal,Brasília,"208,59",17/09/2019,18:13,18,9
+Espanha,,Bilbao,Brasil,Paraná,Curitiba,"3474,44",17/09/2019,11:09,11,9
+Brasil,Paraná,Curitiba,Brasil,Distrito Federal,Brasília,"413,85",17/09/2019,20:13,20,9
+Brasil,Distrito Federal,Brasília,Brasil,Paraná,Curitiba,"411,57",17/09/2019,20:13,20,9
+Brasil,Distrito Federal,Brasília,Brasil,Paraíba,João Pessoa,"616,45",25/09/2019,14:47,14,9
+Brasil,Paraíba,João Pessoa,Brasil,Distrito Federal,Brasília,"611,67",25/09/2019,14:47,14,9
+Brasil,Distrito Federal,Brasília,Brasil,Paraíba,João Pessoa,"578,62",18/09/2019,10:53,10,9
+Brasil,Paraíba,João Pessoa,Brasil,Distrito Federal,Brasília,"573,84",18/09/2019,10:53,10,9
+Brasil,Pará,Belém,Brasil,Distrito Federal,Brasília,"425,85",18/09/2019,17:45,17,9
+Brasil,Distrito Federal,Brasília,Brasil,Pará,Belém,"534,57",18/09/2019,17:45,17,9
+Brasil,Paraíba,Campina Grande,Brasil,Distrito Federal,Brasília,"510,79",19/09/2019,16:03,16,9
+Brasil,Distrito Federal,Brasília,Brasil,Paraíba,Campina Grande,"834,57",19/09/2019,16:03,16,9
+Brasil,Rio Grande do Sul,Porto Alegre,Brasil,Distrito Federal,Brasília,"617,44",17/09/2019,11:59,11,9
+Brasil,Rio Grande do Sul,Porto Alegre,Brasil,Distrito Federal,Brasília,"617,44",17/09/2019,11:46,11,9
+Brasil,Minas Gerais,Confins,Brasil,Distrito Federal,Brasília,"522,91",18/09/2019,16:46,16,9
+Brasil,Minas Gerais,Confins,Brasil,Distrito Federal,Brasília,"522,91",17/09/2019,16:37,16,9
+Brasil,Paraíba,Campina Grande,Brasil,Distrito Federal,Brasília,"1819,82",19/09/2019,11:10,11,9
+Brasil,Amazonas,Manaus,Brasil,Distrito Federal,Brasília,"306,85",19/09/2019,13:03,13,9
+Brasil,Distrito Federal,Brasília,Brasil,Amazonas,Manaus,"271,13",19/09/2019,13:03,13,9
+Brasil,Paraíba,João Pessoa,Brasil,Distrito Federal,Brasília,"564,14",19/09/2019,18:57,18,9
+Brasil,Distrito Federal,Brasília,Brasil,Paraíba,João Pessoa,"568,92",19/09/2019,18:57,18,9
+Brasil,Bahia,Salvador,Brasil,Distrito Federal,Brasília,"614,03",24/09/2019,19:34,19,9
+Brasil,Distrito Federal,Brasília,Brasil,Bahia,Salvador,"345,82",24/09/2019,19:34,19,9
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Distrito Federal,Brasília,"347,42",19/09/2019,14:31,14,9
+Brasil,Santa Catarina,Navegantes,Brasil,Distrito Federal,Brasília,"276,05",19/09/2019,14:39,14,9
+Brasil,Distrito Federal,Brasília,Brasil,Santa Catarina,Navegantes,"289,57",19/09/2019,14:39,14,9
+Japão,,Nagoya,Brasil,Rio de Janeiro,Rio de Janeiro,"6426,85",18/09/2019,16:42,16,9
+Brasil,Distrito Federal,Brasília,Brasil,Bahia,Salvador,"302,17",24/09/2019,19:37,19,9
+Brasil,Bahia,Salvador,Brasil,Distrito Federal,Brasília,"614,03",24/09/2019,19:37,19,9
+Brasil,Distrito Federal,Brasília,Brasil,Paraná,Londrina,"397,33",27/09/2019,17:10,17,9
+Brasil,Paraná,Londrina,Brasil,Distrito Federal,Brasília,"392,55",27/09/2019,17:10,17,9
+Brasil,São Paulo,São Paulo,Brasil,Minas Gerais,Belo Horizonte,"133,85",26/09/2019,12:12,12,9
+Brasil,Minas Gerais,Belo Horizonte,Brasil,São Paulo,São Paulo,"594,38",26/09/2019,12:12,12,9
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Distrito Federal,Brasília,"433,42",18/10/2019,20:57,20,10
+Brasil,Distrito Federal,Brasília,Brasil,Rio Grande do Sul,Porto Alegre,"270,16",01/10/2019,18:55,18,1
+Brasil,Rio Grande do Sul,Porto Alegre,Brasil,Distrito Federal,Brasília,"302,17",01/10/2019,18:55,18,1
+Brasil,Distrito Federal,Brasília,Brasil,Rio de Janeiro,Rio de Janeiro,"172,57",30/09/2019,15:25,15,9
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Distrito Federal,Brasília,"173,75",30/09/2019,15:25,15,9
+Brasil,Rio Grande do Norte,Natal,Brasil,Distrito Federal,Brasília,"492,04",30/09/2019,16:06,16,9
+Brasil,Distrito Federal,Brasília,Brasil,Rio Grande do Norte,Natal,"302,17",30/09/2019,16:06,16,9
+Brasil,Bahia,Salvador,Brasil,Distrito Federal,Brasília,"251,03",02/10/2019,15:18,15,2
+Brasil,Distrito Federal,Brasília,Brasil,Bahia,Salvador,"502,96",02/10/2019,11:14,11,2
+Brasil,Sergipe,Aracaju,Brasil,Distrito Federal,Brasília,"1856,68",30/09/2019,18:41,18,9
+Brasil,Minas Gerais,Juiz de Fora,Brasil,Distrito Federal,Brasília,"698,36",21/10/2019,22:04,22,10
+Brasil,Sergipe,Aracaju,Brasil,Distrito Federal,Brasília,"487,56",18/10/2019,20:23,20,10
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Distrito Federal,Brasília,"251,42",17/10/2019,19:44,19,10
+Brasil,São Paulo,São Paulo,Brasil,Distrito Federal,Brasília,"402,92",17/10/2019,17:19,17,10
+Brasil,São Paulo,Campinas,Brasil,Distrito Federal,Brasília,"236,85",17/10/2019,19:49,19,10
+Brasil,Pará,Belém,Brasil,Distrito Federal,Brasília,"1019,84",21/10/2019,17:28,17,10
+Brasil,São Paulo,São Paulo,Brasil,Distrito Federal,Brasília,"247,9",18/10/2019,18:57,18,10
+Brasil,Distrito Federal,Brasília,Brasil,São Paulo,São Paulo,"177,57",18/10/2019,18:57,18,10
+Portugal,,Lisboa,Brasil,Paraná,Curitiba,"4403,58",21/10/2019,16:46,16,10
+Brasil,Pará,Santarém,Brasil,Minas Gerais,Belo Horizonte,"445,89",19/11/2019,17:52,17,11
+Brasil,Minas Gerais,Belo Horizonte,Brasil,Pará,Santarém,"426,59",19/11/2019,17:52,17,11
+Estados Unidos da América,,Chicago,Brasil,Rio de Janeiro,Rio de Janeiro,"2051,19",29/11/2019,15:23,15,11
+Brasil,Rio de Janeiro,Rio de Janeiro,Estados Unidos da América,,Chicago,"2051,19",29/11/2019,15:23,15,11
+Brasil,Distrito Federal,Brasília,Suíça,,Genebra,"7902,81",04/12/2019,11:27,11,4
+Brasil,Paraíba,João Pessoa,Brasil,Pernambuco,Recife,"428,79",14/10/2019,18:01,18,10
+Brasil,Distrito Federal,Brasília,Brasil,Paraíba,João Pessoa,"389,24",14/10/2019,18:01,18,10
+Brasil,Pernambuco,Recife,Brasil,Distrito Federal,Brasília,"302,17",14/10/2019,18:01,18,10
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Piauí,Teresina,"1879,84",10/10/2019,23:16,23,10
+Brasil,Rio Grande do Sul,Porto Alegre,Brasil,Distrito Federal,Brasília,"271,62",08/10/2019,14:25,14,8
+Brasil,Distrito Federal,Brasília,Brasil,Rio Grande do Sul,Porto Alegre,"371,04",08/10/2019,14:25,14,8
+Brasil,Minas Gerais,Uberlândia,Brasil,Distrito Federal,Brasília,"1024,56",21/10/2019,19:54,19,10
+Brasil,Minas Gerais,Belo Horizonte,Brasil,Minas Gerais,Governador Valadares,"732,94",09/10/2019,19:57,19,9
+Brasil,São Paulo,São Paulo,Estados Unidos da América,,Nova York,"2800,56",09/10/2019,12:27,12,9
+Brasil,Minas Gerais,Belo Horizonte,Brasil,Minas Gerais,Governador Valadares,"732,94",10/10/2019,15:59,15,10
+Brasil,Minas Gerais,Ipatinga,Brasil,Rio de Janeiro,Rio de Janeiro,"302,17",04/11/2019,16:55,16,4
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Minas Gerais,Ipatinga,"778,03",04/11/2019,16:55,16,4
+Brasil,Minas Gerais,Ipatinga,Brasil,Minas Gerais,Belo Horizonte,"221,35",15/10/2019,19:59,19,10
+Brasil,Minas Gerais,Belo Horizonte,Brasil,Minas Gerais,Ipatinga,"451,59",15/10/2019,19:59,19,10
+Brasil,Minas Gerais,Belo Horizonte,Brasil,Minas Gerais,Ipatinga,"325,59",15/10/2019,19:59,19,10
+Brasil,Minas Gerais,Ipatinga,Brasil,Minas Gerais,Belo Horizonte,"221,35",15/10/2019,19:59,19,10
+Brasil,Paraná,Curitiba,Brasil,São Paulo,São José do Rio Preto,"289,7",16/10/2019,17:53,17,10
+Brasil,São Paulo,São José do Rio Preto,Brasil,Paraná,Curitiba,"442,78",16/10/2019,17:53,17,10
+Alemanha,,Munique,Brasil,Paraná,Curitiba,"2751,5",24/10/2019,8:34,8,10
+Brasil,Paraná,Curitiba,Alemanha,,Munique,"2751,54",24/10/2019,8:34,8,10
+Brasil,Minas Gerais,Belo Horizonte,Brasil,Distrito Federal,Brasília,"466,65",24/10/2019,14:57,14,10
+Brasil,São Paulo,Campinas,Brasil,Distrito Federal,Brasília,"468,85",23/10/2019,12:07,12,10
+França,,Paris,Brasil,São Paulo,São Paulo,"0,04",15/10/2019,11:17,11,10
+França,,Clermont-Ferrand,França,,Paris,"0,04",15/10/2019,11:17,11,10
+Brasil,São Paulo,São Paulo,França,,Clermont-Ferrand,"4589,32",15/10/2019,11:17,11,10
+Israel,,Telavive,Brasil,São Paulo,São Paulo,"5596,71",18/02/2020,15:46,15,2
+Brasil,Paraná,Curitiba,Brasil,Distrito Federal,Brasília,"553,21",18/10/2019,17:44,17,10
+Brasil,Distrito Federal,Brasília,Estados Unidos da América,,Atlanta,"2321,72",18/10/2019,17:44,17,10
+Brasil,Distrito Federal,Brasília,Brasil,Paraná,Curitiba,"553,21",18/10/2019,17:44,17,10
+Estados Unidos da América,,Atlanta,Brasil,Distrito Federal,Brasília,"2321,72",18/10/2019,17:44,17,10
+Brasil,São Paulo,São Paulo,Brasil,Distrito Federal,Brasília,"257,42",16/10/2019,16:27,16,10
+Brasil,Rio Grande do Sul,Porto Alegre,Brasil,Distrito Federal,Brasília,"541,78",14/10/2019,21:53,21,10
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Distrito Federal,Brasília,"288,46",16/10/2019,9:31,9,10
+Brasil,Rio Grande do Sul,Porto Alegre,Brasil,Distrito Federal,Brasília,"603,86",15/10/2019,14:15,14,10
+Brasil,Rio Grande do Sul,Porto Alegre,Brasil,Distrito Federal,Brasília,"572,82",15/10/2019,14:10,14,10
+Israel,,Telavive,Brasil,São Paulo,São Paulo,"5596,71",18/02/2020,15:47,15,2
+Brasil,Amazonas,Manaus,Brasil,Rondônia,Porto Velho,"422,85",02/12/2019,17:35,17,2
+Brasil,Rondônia,Porto Velho,Brasil,Amazonas,Manaus,"609,79",02/12/2019,17:35,17,2
+Brasil,Distrito Federal,Brasília,Alemanha,,Berlim,"4418,47",16/10/2019,11:57,11,10
+Portugal,,Lisboa,Brasil,Distrito Federal,Brasília,"2226,74",16/10/2019,12:25,12,10
+Portugal,,Lisboa,Brasil,Distrito Federal,Brasília,"2224,67",16/10/2019,12:28,12,10
+Brasil,Minas Gerais,Belo Horizonte,Brasil,Distrito Federal,Brasília,"370,62",16/10/2019,17:33,17,10
+Brasil,Distrito Federal,Brasília,França,,Paris,"2400,93",21/10/2019,12:34,12,10
+Brasil,São Paulo,Campinas,Brasil,Distrito Federal,Brasília,"429,85",18/10/2019,20:59,20,10
+Portugal,,Porto,Brasil,Distrito Federal,Brasília,"2296,95",21/10/2019,13:57,13,10
+Argentina,,Bahia Blanca,Brasil,Paraná,Curitiba,"2147,08",24/10/2019,9:52,9,10
+Brasil,Minas Gerais,Juiz de Fora,Brasil,Distrito Federal,Brasília,"1189,36",21/10/2019,13:43,13,10
+Brasil,Rio de Janeiro,Rio de Janeiro,Cuba,,Havana,"4757,59",23/10/2019,11:41,11,10
+Brasil,Pernambuco,Recife,Brasil,São Paulo,São Paulo,"521,85",13/12/2019,16:52,16,12
+Brasil,São Paulo,São Paulo,Brasil,Pernambuco,Recife,"393,59",13/12/2019,16:52,16,12
+Brasil,Pernambuco,Recife,Brasil,Santa Catarina,Florianópolis,"654,85",11/12/2019,14:02,14,11
+Brasil,Santa Catarina,Florianópolis,Brasil,Pernambuco,Recife,"554,13",11/12/2019,14:02,14,11
+Brasil,Paraná,Curitiba,Brasil,Goiás,Goiânia,"621,86",29/01/2020,17:38,17,1
+Brasil,Goiás,Goiânia,Brasil,Paraná,Curitiba,"667,07",29/01/2020,18:55,18,1
+Brasil,Acre,Rio Branco,Brasil,São Paulo,São Paulo,"1156,89",23/10/2019,15:25,15,10
+Brasil,São Paulo,São Paulo,Brasil,Acre,Rio Branco,"577,95",23/10/2019,15:25,15,10
+Brasil,São Paulo,São Paulo,Brasil,Acre,Rio Branco,"577,95",23/10/2019,15:29,15,10
+Brasil,Acre,Rio Branco,Brasil,São Paulo,São Paulo,"1156,89",23/10/2019,15:29,15,10
+Brasil,Paraná,Curitiba,Filipinas,,Manilla,"5263,77",25/10/2019,19:08,19,10
+Filipinas,,Manilla,Brasil,Paraná,Curitiba,"5263,77",25/10/2019,19:08,19,10
+Brasil,Pernambuco,Recife,Brasil,Rio de Janeiro,Rio de Janeiro,"416,85",23/01/2020,10:32,10,1
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Pernambuco,Recife,"448,25",23/01/2020,10:32,10,1
+Brasil,Pernambuco,Recife,Brasil,Rio de Janeiro,Rio de Janeiro,"416,85",27/12/2019,8:41,8,12
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Pernambuco,Recife,"446,25",27/12/2019,8:41,8,12
+Brasil,Paraná,Curitiba,Suíça,,Zurique,"2324,94",14/11/2019,11:44,11,11
+Suíça,,Zurique,Brasil,Paraná,Curitiba,"2324,94",14/11/2019,11:44,11,11
+Brasil,Pernambuco,Recife,Brasil,São Paulo,Campinas,"864,85",06/12/2019,16:49,16,6
+Brasil,São Paulo,Campinas,Brasil,Pernambuco,Recife,"515,28",06/12/2019,16:49,16,6
+Brasil,Pernambuco,Recife,Brasil,Paraná,Curitiba,"739,85",26/12/2019,13:55,13,12
+Brasil,Paraná,Curitiba,Brasil,Pernambuco,Recife,"607,85",26/12/2019,13:55,13,12
+Brasil,São Paulo,São Paulo,Brasil,Distrito Federal,Brasília,"283,42",25/10/2019,20:21,20,10
+Brasil,São Paulo,Campinas,Brasil,Distrito Federal,Brasília,"302,17",24/10/2019,12:36,12,10
+Brasil,Paraná,Curitiba,Espanha,,Pamplona,"2398,77",26/10/2019,10:32,10,10
+Espanha,,Pamplona,Brasil,Paraná,Curitiba,"2398,77",26/10/2019,10:32,10,10
+França,,Paris,Brasil,Paraná,Curitiba,"2219,46",25/10/2019,11:47,11,10
+Brasil,Paraná,Curitiba,França,,Paris,"2219,46",25/10/2019,11:47,11,10
+Brasil,Minas Gerais,Belo Horizonte,Brasil,Pernambuco,Recife,"683,59",13/12/2019,10:50,10,12
+Brasil,Pernambuco,Recife,Brasil,Minas Gerais,Belo Horizonte,"694,95",13/12/2019,10:50,10,12
+Brasil,São Paulo,São Paulo,Brasil,Pernambuco,Recife,"364,59",10/12/2019,9:25,9,10
+Brasil,Pernambuco,Recife,Brasil,São Paulo,São Paulo,"398,85",10/12/2019,9:25,9,10
+Brasil,Pernambuco,Recife,Brasil,Rio de Janeiro,Rio de Janeiro,"423,85",30/12/2019,8:28,8,12
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Pernambuco,Recife,"654,75",30/12/2019,8:28,8,12
+Brasil,São Paulo,São Paulo,Brasil,Distrito Federal,Brasília,"263,42",24/10/2019,19:21,19,10
+Brasil,Distrito Federal,Brasília,Brasil,São Paulo,São Paulo,"219,72",25/10/2019,19:13,19,10
+Brasil,São Paulo,São Paulo,Brasil,Distrito Federal,Brasília,"221,85",25/10/2019,19:13,19,10
+Brasil,Pernambuco,Recife,Brasil,Ceará,Fortaleza,"528,9",12/03/2020,16:34,16,12
+Brasil,Ceará,Fortaleza,Brasil,Pernambuco,Recife,"528,9",12/03/2020,16:34,16,12
+Brasil,São Paulo,São Paulo,Brasil,Pernambuco,Recife,"388,95",12/03/2020,17:01,17,12
+Brasil,Pernambuco,Recife,Brasil,São Paulo,São Paulo,"602,85",12/03/2020,17:01,17,12
+Brasil,Rio de Janeiro,Rio de Janeiro,Espanha,,Valencia,"1827,78",27/12/2019,14:57,14,12
+Espanha,,Valencia,Brasil,Rio de Janeiro,Rio de Janeiro,"1827,78",27/12/2019,14:57,14,12
+Brasil,São Paulo,São Paulo,Brasil,Pernambuco,Recife,"302,17",09/12/2019,14:22,14,9
+Brasil,Pernambuco,Recife,Brasil,São Paulo,São Paulo,"402,85",09/12/2019,14:22,14,9
+Brasil,Pernambuco,Recife,Brasil,Espírito Santo,Vitória,"393,85",11/12/2019,14:06,14,11
+Brasil,Espírito Santo,Vitória,Brasil,Pernambuco,Recife,"192,85",11/12/2019,14:06,14,11
+Brasil,Pernambuco,Recife,Brasil,Rio de Janeiro,Rio de Janeiro,"416,85",20/12/2019,9:24,9,12
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Pernambuco,Recife,"448,25",20/12/2019,9:24,9,12
+Nova Zelândia,,Wellington,Brasil,Distrito Federal,Brasília,"3815,67",25/10/2019,17:38,17,10
+Nova Zelândia,,Wellington,Brasil,Distrito Federal,Brasília,"3815,67",25/10/2019,17:35,17,10
+Brasil,São Paulo,São Paulo,Dinamarca,,Copenhague,"2531,72",21/11/2019,17:57,17,11
+Dinamarca,,Copenhague,Brasil,São Paulo,São Paulo,"2531,72",21/11/2019,17:57,17,11
+Brasil,Paraná,Curitiba,Hong Kong,,Hong Kong,"3262,1",07/11/2019,12:00,12,7
+Hong Kong,,Hong Kong,Brasil,Paraná,Curitiba,"3262,1",07/11/2019,12:00,12,7
+Brasil,Paraná,Ponta Grossa,Brasil,Distrito Federal,Brasília,"1130,73",25/10/2019,20:01,20,10
+Brasil,Minas Gerais,Belo Horizonte,Brasil,Pernambuco,Recife,"534,59",19/12/2019,8:47,8,12
+Brasil,Pernambuco,Recife,Brasil,Minas Gerais,Belo Horizonte,"398,85",19/12/2019,8:47,8,12
+Brasil,Distrito Federal,Brasília,Brasil,Pernambuco,Recife,"456,57",07/11/2019,11:47,11,7
+Brasil,Distrito Federal,Brasília,Brasil,Rio Grande do Norte,Natal,"433,12",25/10/2019,21:16,21,10
+Brasil,Rio Grande do Norte,Natal,Brasil,Distrito Federal,Brasília,"669,04",25/10/2019,21:16,21,10
+Brasil,Distrito Federal,Brasília,Estados Unidos da América,,Baltimore - Maryland,"3630,96",05/11/2019,11:18,11,5
+Estados Unidos da América,,Baltimore - Maryland,Brasil,Goiás,Goiânia,"3630,96",05/11/2019,11:18,11,5
+Brasil,Pernambuco,Recife,Brasil,São Paulo,São Paulo,"375,85",10/12/2019,14:43,14,10
+Brasil,São Paulo,São Paulo,Brasil,Pernambuco,Recife,"500,69",10/12/2019,14:43,14,10
+Brasil,Pernambuco,Recife,Brasil,Sergipe,Aracaju,"302,17",17/12/2019,16:40,16,12
+Brasil,Sergipe,Aracaju,Brasil,Pernambuco,Recife,"291,79",17/12/2019,16:40,16,12
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Distrito Federal,Brasília,"295,42",30/10/2019,19:00,19,10
+Brasil,Paraná,Maringá,Portugal,,Porto,"2022,07",30/10/2019,13:48,13,10
+Portugal,,Porto,Brasil,Paraná,Maringá,"2022,07",30/10/2019,13:48,13,10
+Brasil,Acre,Rio Branco,Brasil,Distrito Federal,Brasília,"462,29",31/10/2019,15:27,15,10
+Brasil,Distrito Federal,Brasília,Brasil,Acre,Rio Branco,"1243,57",31/10/2019,15:27,15,10
+Brasil,Bahia,Salvador,Brasil,Distrito Federal,Brasília,"438,03",19/11/2019,20:24,20,11
+Brasil,São Paulo,Campinas,Brasil,Minas Gerais,Goianá,"306,26",01/11/2019,18:57,18,1
+Brasil,Minas Gerais,Goianá,Brasil,São Paulo,Campinas,"254,63",01/11/2019,18:57,18,1
+Brasil,Minas Gerais,Goianá,Brasil,São Paulo,Campinas,"302,17",05/11/2019,10:32,10,5
+Brasil,São Paulo,Campinas,Brasil,Minas Gerais,Goianá,"184,36",05/11/2019,10:32,10,5
+Estados Unidos da América,,Dallas,Brasil,Rio de Janeiro,Rio de Janeiro,"3573,14",06/11/2019,18:39,18,6
+Brasil,Rio de Janeiro,Rio de Janeiro,Estados Unidos da América,,San Francisco - Califórnia,"3573,14",06/11/2019,18:39,18,6
+Brasil,Amazonas,Manaus,Brasil,Rondônia,Porto Velho,"422,85",02/12/2019,17:27,17,2
+Brasil,Rondônia,Porto Velho,Brasil,Amazonas,Manaus,"609,79",02/12/2019,17:27,17,2
+Brasil,Alagoas,Maceió,Brasil,Distrito Federal,Brasília,"516,88",05/11/2019,14:31,14,5
+Brasil,Distrito Federal,Brasília,Brasil,Alagoas,Maceió,"848,47",05/11/2019,14:31,14,5
+Brasil,Minas Gerais,Goianá,Brasil,São Paulo,Campinas,"221,27",31/10/2019,13:16,13,10
+Brasil,São Paulo,Campinas,Brasil,Minas Gerais,Goianá,"179,76",31/10/2019,13:16,13,10
+Brasil,Minas Gerais,Goianá,Brasil,São Paulo,Campinas,"175,27",31/10/2019,13:05,13,10
+Brasil,São Paulo,Campinas,Brasil,Minas Gerais,Goianá,"179,76",31/10/2019,13:05,13,10
+Brasil,Rio de Janeiro,Rio de Janeiro,Estados Unidos da América,,Duluth - Minnesota,"3115,69",01/11/2019,19:16,19,1
+Estados Unidos da América,,Duluth - Minnesota,Brasil,Rio de Janeiro,Rio de Janeiro,"3115,65",01/11/2019,19:16,19,1
+Portugal,,Lisboa,Brasil,Rio de Janeiro,Rio de Janeiro,"1744,85",21/01/2020,19:41,19,1
+Brasil,Rio de Janeiro,Rio de Janeiro,Portugal,,Lisboa,"1744,85",21/01/2020,19:41,19,1
+Brasil,Rio de Janeiro,Rio de Janeiro,Portugal,,Lisboa,"2617,89",23/01/2020,17:51,17,1
+Portugal,,Lisboa,Brasil,Rio de Janeiro,Rio de Janeiro,"2617,89",23/01/2020,17:51,17,1
+Brasil,São Paulo,São Paulo,Brasil,Distrito Federal,Brasília,"592,07",01/11/2019,14:34,14,1
+Brasil,São Paulo,São Paulo,França,,Toulouse,"4759,63",01/11/2019,11:58,11,1
+Brasil,Piauí,Teresina,Brasil,Goiás,Goiânia,"562,89",04/11/2019,14:03,14,4
+Brasil,Goiás,Goiânia,Brasil,Piauí,Teresina,"624,85",04/11/2019,14:03,14,4
+Portugal,,Lisboa,Brasil,São Paulo,São Paulo,"2594,09",14/11/2019,11:20,11,11
+Brasil,São Paulo,São Paulo,Portugal,,Lisboa,"2594,09",14/11/2019,11:20,11,11
+Brasil,Ceará,Fortaleza,Brasil,Distrito Federal,Brasília,"841,51",04/11/2019,21:22,21,4
+Espanha,,Málaga,Brasil,Paraná,Cascavel,"2917,18",05/11/2019,16:26,16,5
+Brasil,Paraná,Cascavel,Espanha,,Málaga,"2917,18",05/11/2019,16:26,16,5
+Brasil,Distrito Federal,Brasília,Brasil,Rio de Janeiro,Rio de Janeiro,"120,57",31/10/2019,15:40,15,10
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Distrito Federal,Brasília,"120,15",31/10/2019,15:40,15,10
+Brasil,Distrito Federal,Brasília,Brasil,Santa Catarina,Florianópolis,"993,57",01/11/2019,13:09,13,1
+Brasil,Santa Catarina,Florianópolis,Brasil,Distrito Federal,Brasília,"793,03",01/11/2019,13:09,13,1
+Brasil,Distrito Federal,Brasília,Brasil,Mato Grosso do Sul,Campo Grande,"591,85",04/11/2019,16:07,16,4
+Brasil,Mato Grosso do Sul,Campo Grande,Brasil,Distrito Federal,Brasília,"582,51",04/11/2019,16:07,16,4
+Brasil,Paraná,Curitiba,Estados Unidos da América,,Miami,"3013,58",14/11/2019,16:21,16,11
+Estados Unidos da América,,Miami,Brasil,Paraná,Curitiba,"3013,54",14/11/2019,16:21,16,11
+Brasil,Bahia,Salvador,Brasil,Distrito Federal,Brasília,"310,42",05/11/2019,14:33,14,5
+Brasil,Distrito Federal,Brasília,Brasil,Bahia,Salvador,243,05/11/2019,14:33,14,5
+Brasil,Distrito Federal,Brasília,Brasil,Paraná,Curitiba,"467,57",01/11/2019,15:09,15,1
+Brasil,Paraná,Curitiba,Brasil,Distrito Federal,Brasília,"469,85",01/11/2019,15:09,15,1
+Brasil,Distrito Federal,Brasília,Brasil,São Paulo,São Paulo,"203,57",04/11/2019,13:06,13,4
+Brasil,São Paulo,São Paulo,Brasil,Distrito Federal,Brasília,"203,28",04/11/2019,13:06,13,4
+Brasil,Distrito Federal,Brasília,Brasil,Espírito Santo,Vitória,"200,32",04/11/2019,14:02,14,4
+Brasil,Espírito Santo,Vitória,Brasil,Distrito Federal,Brasília,"292,81",04/11/2019,14:02,14,4
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Distrito Federal,Brasília,"156,85",04/11/2019,15:44,15,4
+Brasil,Distrito Federal,Brasília,Brasil,Rio de Janeiro,Rio de Janeiro,"316,57",04/11/2019,15:44,15,4
+Brasil,Maranhão,São Luís,Brasil,Piauí,Teresina,"186,64",04/11/2019,14:07,14,4
+Brasil,Pernambuco,Petrolina,Brasil,Piauí,Teresina,"1287,58",06/11/2019,11:20,11,6
+Brasil,Pará,Belém,Brasil,Piauí,Teresina,"856,84",04/11/2019,14:25,14,4
+Brasil,Distrito Federal,Brasília,Dinamarca,,Copenhague,"4530,08",01/11/2019,13:56,13,1
+Brasil,Distrito Federal,Brasília,Estados Unidos da América,,Washington,"4055,11",06/11/2019,9:47,9,6
+Estados Unidos da América,,Washington,Brasil,Goiás,Goiânia,"4055,11",06/11/2019,9:47,9,6
+Brasil,Ceará,Juazeiro do Norte,Brasil,São Paulo,São Paulo,"1141,89",04/11/2019,12:34,12,4
+Brasil,São Paulo,São Paulo,Brasil,Ceará,Juazeiro do Norte,"361,59",04/11/2019,12:34,12,4
+Brasil,Paraná,Curitiba,Brasil,Paraná,Toledo,"294,6",04/11/2019,11:43,11,4
+Brasil,Paraíba,João Pessoa,Brasil,São Paulo,São Paulo,"845,79",11/11/2019,23:47,23,11
+Brasil,São Paulo,São Paulo,Brasil,Paraíba,João Pessoa,"469,59",11/11/2019,23:47,23,11
+Brasil,São Paulo,São Paulo,Brasil,Pernambuco,Recife,"369,59",07/11/2019,15:30,15,7
+Brasil,Pernambuco,Recife,Brasil,São Paulo,São Paulo,"941,85",07/11/2019,15:30,15,7
+Brasil,Amazonas,Manaus,Reino Unido,,Londres,"3482,03",14/11/2019,18:32,18,11
+Reino Unido,,Londres,Brasil,Amazonas,Manaus,"3482,07",14/11/2019,18:32,18,11
+Brasil,Distrito Federal,Brasília,Reino Unido,,Londres,"2606,26",14/11/2019,17:16,17,11
+Reino Unido,,Londres,Brasil,Distrito Federal,Brasília,"2606,26",14/11/2019,17:16,17,11
+Brasil,Ceará,Juazeiro do Norte,Brasil,São Paulo,São Paulo,"1141,89",04/11/2019,19:40,19,4
+Brasil,São Paulo,São Paulo,Brasil,Ceará,Juazeiro do Norte,"709,69",04/11/2019,19:40,19,4
+Brasil,Ceará,Juazeiro do Norte,Brasil,São Paulo,São Paulo,"1141,89",08/11/2019,8:34,8,8
+Brasil,São Paulo,São Paulo,Brasil,Ceará,Juazeiro do Norte,"262,59",08/11/2019,8:34,8,8
+Brasil,São Paulo,São Paulo,Portugal,,Lisboa,"1631,24",16/11/2019,10:18,10,11
+Portugal,,Lisboa,Brasil,São Paulo,São Paulo,"1631,24",16/11/2019,10:18,10,11
+Geórgia,,Tbilisi,Brasil,São Paulo,São Paulo,"5773,55",04/11/2019,17:22,17,4
+Brasil,Bahia,Salvador,Brasil,Santa Catarina,Florianópolis,"852,03",04/11/2019,18:30,18,4
+Brasil,Santa Catarina,Florianópolis,Brasil,Bahia,Salvador,"852,03",04/11/2019,18:30,18,4
+Chile,,Concepción,Brasil,São Paulo,Guarulhos,"1157,99",18/11/2019,9:35,9,11
+Brasil,São Paulo,Guarulhos,Chile,,Concepción,"1157,99",18/11/2019,9:35,9,11
+Bolívia,,Santa Cruz,Brasil,Bahia,Salvador,"2256,35",05/11/2019,17:32,17,5
+Bolívia,,Santa Cruz,Brasil,Bahia,Salvador,"2256,35",05/11/2019,17:43,17,5
+Bolívia,,Santa Cruz,Brasil,Bahia,Salvador,"1814,69",05/11/2019,17:50,17,5
+Bolívia,,Santa Cruz,Brasil,Bahia,Salvador,"1814,69",05/11/2019,17:58,17,5
+Brasil,Minas Gerais,Juiz de Fora,Brasil,Distrito Federal,Brasília,"846,36",14/11/2019,9:15,9,11
+Brasil,Roraima,Boa Vista,Brasil,Piauí,Teresina,"1031,85",12/12/2019,15:53,15,12
+Brasil,Piauí,Teresina,Brasil,Roraima,Boa Vista,"1024,79",12/12/2019,15:53,15,12
+Brasil,Distrito Federal,Brasília,Brasil,Bahia,Salvador,"1001,6",06/11/2019,11:44,11,6
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Piauí,Teresina,"932,75",07/11/2019,15:08,15,7
+Brasil,Piauí,Teresina,Brasil,Rio de Janeiro,Rio de Janeiro,"375,89",07/11/2019,15:08,15,7
+Brasil,São Paulo,São Paulo,Brasil,Paraná,Curitiba,"195,59",22/11/2019,19:17,19,11
+Brasil,Paraná,Curitiba,Brasil,Rio de Janeiro,Rio de Janeiro,"338,85",22/11/2019,19:17,19,11
+França,,Lyon,Brasil,São Paulo,São Paulo,"2419,51",22/11/2019,19:17,19,11
+Brasil,Rio de Janeiro,Rio de Janeiro,Suíça,,Genebra,"2449,3",22/11/2019,19:17,19,11
+Brasil,São Paulo,São Paulo,Brasil,Ceará,Juazeiro do Norte,"294,59",08/11/2019,8:27,8,8
+Brasil,Ceará,Juazeiro do Norte,Brasil,São Paulo,São Paulo,"1141,89",08/11/2019,8:27,8,8
+Brasil,Paraná,Foz do Iguaçu,Brasil,São Paulo,Guarulhos,"385,85",20/11/2019,15:10,15,11
+Brasil,São Paulo,Guarulhos,Alemanha,,Hamburgo,"1681,17",20/11/2019,15:10,15,11
+Brasil,São Paulo,Guarulhos,Brasil,Paraná,Cascavel,"191,59",20/11/2019,15:10,15,11
+Alemanha,,Hamburgo,Brasil,São Paulo,Guarulhos,"1681,17",20/11/2019,15:10,15,11
+Brasil,São Paulo,São Paulo,Brasil,Distrito Federal,Brasília,"132,85",07/11/2019,18:33,18,7
+Brasil,Distrito Federal,Brasília,Brasil,São Paulo,São Paulo,"156,67",07/11/2019,18:33,18,7
+Brasil,Distrito Federal,Brasília,Brasil,São Paulo,São Paulo,"127,57",07/11/2019,18:37,18,7
+Brasil,São Paulo,São Paulo,Brasil,Distrito Federal,Brasília,"129,85",07/11/2019,18:37,18,7
+Turquia,,Istambul,Brasil,São Paulo,São Paulo,"4827,09",05/11/2019,19:18,19,5
+Brasil,Pará,Marabá,Brasil,Distrito Federal,Brasília,"447,79",06/11/2019,17:13,17,6
+Brasil,Distrito Federal,Brasília,Brasil,Pará,Marabá,"865,57",06/11/2019,17:13,17,6
+Brasil,Pará,Marabá,Brasil,Distrito Federal,Brasília,"447,79",06/11/2019,17:22,17,6
+Brasil,Distrito Federal,Brasília,Brasil,Pará,Marabá,"865,57",06/11/2019,17:22,17,6
+Brasil,Pará,Marabá,Brasil,Distrito Federal,Brasília,"447,79",06/11/2019,17:40,17,6
+Brasil,Distrito Federal,Brasília,Brasil,Pará,Marabá,"865,57",06/11/2019,17:40,17,6
+Brasil,Pará,Marabá,Brasil,Distrito Federal,Brasília,"447,79",06/11/2019,17:33,17,6
+Brasil,Distrito Federal,Brasília,Brasil,Pará,Marabá,"865,57",06/11/2019,17:33,17,6
+Estados Unidos da América,,Sacramento - California,Brasil,Paraná,Curitiba,"3047,89",20/11/2019,18:26,18,11
+Brasil,Paraná,Curitiba,Estados Unidos da América,,Sacramento - California,"3047,85",20/11/2019,18:26,18,11
+Brasil,Distrito Federal,Brasília,Argentina,,San Luis,"2028,97",19/11/2019,12:34,12,11
+Brasil,Pernambuco,Recife,Brasil,Rio de Janeiro,Rio de Janeiro,"950,85",12/11/2019,18:23,18,12
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Pernambuco,Recife,"345,25",12/11/2019,18:23,18,12
+Brasil,Pará,Marabá,Brasil,São Paulo,Ribeirão Preto,"813,79",11/11/2019,16:58,16,11
+Brasil,São Paulo,Ribeirão Preto,Brasil,Pará,Marabá,"1228,79",11/11/2019,16:58,16,11
+Brasil,Rio Grande do Sul,Santa Maria,Brasil,Distrito Federal,Brasília,"1764,53",07/11/2019,17:45,17,7
+Estados Unidos da América,,Miami,Estados Unidos da América,,Los Angeles,"994,23",06/11/2019,15:58,15,6
+Brasil,Alagoas,Maceió,Brasil,Piauí,Teresina,"523,95",07/11/2019,14:54,14,7
+Brasil,Piauí,Teresina,Brasil,Alagoas,Maceió,"379,79",07/11/2019,14:54,14,7
+Estados Unidos da América,,Miami,Estados Unidos da América,,Los Angeles,"994,23",06/11/2019,16:05,16,6
+Brasil,Minas Gerais,Belo Horizonte,Brasil,Minas Gerais,Lavras,"66,37",13/12/2019,14:13,14,12
+Brasil,Minas Gerais,Bom Sucesso,Brasil,Minas Gerais,Belo Horizonte,"76,74",13/12/2019,14:12,14,12
+Brasil,Sergipe,Aracaju,Brasil,Alagoas,Maceió,"590,32",07/11/2019,13:28,13,7
+Brasil,Alagoas,Maceió,Brasil,Sergipe,Aracaju,"639,32",07/11/2019,13:28,13,7
+Brasil,Alagoas,Maceió,Brasil,Sergipe,Aracaju,"639,32",07/11/2019,15:20,15,7
+Brasil,Sergipe,Aracaju,Brasil,Alagoas,Maceió,"590,32",07/11/2019,15:20,15,7
+Brasil,Minas Gerais,Belo Horizonte,Brasil,Alagoas,Maceió,"569,69",07/11/2019,14:51,14,7
+Brasil,Alagoas,Maceió,Brasil,Minas Gerais,Belo Horizonte,"609,95",07/11/2019,14:51,14,7
+Brasil,Distrito Federal,Brasília,Brasil,Mato Grosso,Rondonópolis,"492,57",07/11/2019,20:26,20,7
+Brasil,Mato Grosso,Rondonópolis,Brasil,Distrito Federal,Brasília,"1097,45",07/11/2019,20:26,20,7
+Brasil,Mato Grosso do Sul,Três Lagoas,Brasil,Alagoas,Maceió,"658,35",07/11/2019,14:57,14,7
+Brasil,Alagoas,Maceió,Brasil,Mato Grosso do Sul,Três Lagoas,"725,85",07/11/2019,14:57,14,7
+Brasil,Pernambuco,Recife,Brasil,Rio de Janeiro,Rio de Janeiro,"758,85",12/11/2019,18:19,18,12
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Pernambuco,Recife,"345,25",12/11/2019,18:19,18,12
+Brasil,Alagoas,Maceió,Brasil,Sergipe,Aracaju,"642,85",07/11/2019,14:46,14,7
+Brasil,Sergipe,Aracaju,Brasil,Alagoas,Maceió,"586,79",07/11/2019,14:46,14,7
+Brasil,Goiás,Goiânia,Brasil,Distrito Federal,Brasília,"547,42",07/11/2019,18:16,18,7
+Brasil,Tocantins,Palmas,Brasil,Pará,Santarém,"1318,79",25/11/2019,15:54,15,11
+Brasil,Pará,Santarém,Brasil,Tocantins,Palmas,"684,79",25/11/2019,15:54,15,11
+Brasil,Acre,Cruzeiro do Sul,Brasil,Pará,Belém,"877,31",22/11/2019,20:08,20,11
+Brasil,Pará,Belém,Brasil,Acre,Cruzeiro do Sul,"1417,93",22/11/2019,20:08,20,11
+Brasil,Alagoas,Maceió,Brasil,São Paulo,Campinas,"375,95",07/11/2019,14:46,14,7
+Brasil,São Paulo,Campinas,Brasil,Alagoas,Maceió,"373,38",07/11/2019,14:46,14,7
+Brasil,Pernambuco,Recife,Brasil,Alagoas,Maceió,"232,85",11/11/2019,18:17,18,11
+Brasil,Alagoas,Maceió,Brasil,Pernambuco,Recife,"252,85",11/11/2019,18:17,18,11
+Brasil,Distrito Federal,Brasília,Espanha,,Sevilha,"6860,52",07/11/2019,15:24,15,7
+Brasil,Distrito Federal,Brasília,Brasil,Alagoas,Maceió,"333,57",07/11/2019,15:35,15,7
+Brasil,Alagoas,Maceió,Brasil,Distrito Federal,Brasília,"494,95",07/11/2019,15:35,15,7
+Brasil,Paraná,Curitiba,Brasil,São Paulo,São Paulo,"530,85",11/11/2019,18:20,18,11
+Brasil,São Paulo,São Paulo,Estados Unidos da América,,San Francisco - Califórnia,"3528,89",08/11/2019,18:31,18,8
+Estados Unidos da América,,San Francisco - Califórnia,Brasil,Paraná,Curitiba,"2891,86",08/11/2019,18:31,18,8
+Brasil,Distrito Federal,Brasília,Brasil,Rio de Janeiro,Rio de Janeiro,"1017,42",08/11/2019,18:11,18,8
+Brasil,Rio Grande do Norte,Natal,Brasil,Rio de Janeiro,Rio de Janeiro,"889,04",11/11/2019,16:54,16,11
+Brasil,Minas Gerais,Juiz de Fora,Brasil,Distrito Federal,Brasília,"685,46",07/11/2019,17:28,17,7
+Brasil,Distrito Federal,Brasília,Brasil,Rio de Janeiro,Rio de Janeiro,"1160,57",11/02/2020,12:12,12,11
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Distrito Federal,Brasília,"1832,85",11/02/2020,12:12,12,11
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Distrito Federal,Brasília,"1832,85",11/02/2020,12:11,12,11
+Brasil,Distrito Federal,Brasília,Brasil,Rio de Janeiro,Rio de Janeiro,"1160,57",11/02/2020,12:10,12,11
+Brasil,Amapá,Macapá,Brasil,Distrito Federal,Brasília,"905,79",05/12/2019,19:20,19,5
+Brasil,Alagoas,Maceió,Brasil,Rio de Janeiro,Rio de Janeiro,"493,95",12/11/2019,14:34,14,12
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Alagoas,Maceió,"533,85",12/11/2019,14:34,14,12
+Brasil,Minas Gerais,Belo Horizonte,Brasil,Santa Catarina,Florianópolis,"1078,62",20/11/2019,13:42,13,11
+Brasil,Amapá,Macapá,Brasil,Distrito Federal,Brasília,"817,8",05/12/2019,19:56,19,5
+Brasil,Amapá,Macapá,Brasil,Distrito Federal,Brasília,"817,8",05/12/2019,19:55,19,5
+Brasil,Alagoas,Maceió,Brasil,Bahia,Salvador,"252,85",11/11/2019,18:07,18,11
+Brasil,Bahia,Salvador,Brasil,Alagoas,Maceió,"232,03",11/11/2019,18:07,18,11
+Brasil,Distrito Federal,Brasília,México,,Oaxaca de Juárez,"3549,89",12/11/2019,14:13,14,12
+Brasil,Tocantins,Palmas,Brasil,Distrito Federal,Brasília,"1226,36",08/11/2019,12:35,12,8
+Brasil,Goiás,Goiânia,Brasil,Distrito Federal,Brasília,"422,85",07/11/2019,20:19,20,7
+Brasil,Distrito Federal,Brasília,Brasil,Goiás,Goiânia,"130,57",07/11/2019,20:19,20,7
+Brasil,São Paulo,Campinas,Brasil,Distrito Federal,Brasília,"272,85",07/11/2019,19:32,19,7
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Acre,Rio Branco,1097,12/11/2019,19:16,19,12
+Brasil,Acre,Rio Branco,Brasil,Rio de Janeiro,Rio de Janeiro,"459,29",12/11/2019,19:16,19,12
+Brasil,Pará,Belém,Brasil,Acre,Cruzeiro do Sul,"749,24",22/11/2019,20:15,20,11
+Brasil,Acre,Cruzeiro do Sul,Brasil,Pará,Belém,"1410,87",22/11/2019,20:14,20,11
+Brasil,Pernambuco,Recife,Brasil,Distrito Federal,Brasília,"883,27",09/11/2019,10:02,10,9
+Brasil,Ceará,Fortaleza,Portugal,,Porto,"2865,46",14/11/2019,12:25,12,11
+Portugal,,Porto,Brasil,Ceará,Fortaleza,"2865,46",14/11/2019,12:25,12,11
+Brasil,São Paulo,Ribeirão Preto,Brasil,Distrito Federal,Brasília,"934,56",13/11/2019,8:58,8,11
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Minas Gerais,Confins,"723,32",16/06/2020,14:54,14,6
+Brasil,Minas Gerais,Confins,Brasil,Rio de Janeiro,Rio de Janeiro,"365,66",16/06/2020,14:54,14,6
+Brasil,Distrito Federal,Brasília,Portugal,,Lisboa,"4659,02",11/11/2019,19:42,19,11
+Brasil,Santa Catarina,Florianópolis,Brasil,Distrito Federal,Brasília,"393,84",11/11/2019,19:59,19,11
+Brasil,Distrito Federal,Brasília,Brasil,Santa Catarina,Florianópolis,"216,57",11/11/2019,19:59,19,11
+Brasil,Minas Gerais,Confins,Brasil,Distrito Federal,Brasília,"146,59",08/11/2019,20:20,20,8
+Brasil,Distrito Federal,Brasília,Brasil,Minas Gerais,Confins,"301,2",08/11/2019,20:20,20,8
+Brasil,Pernambuco,Recife,Brasil,Amazonas,Manaus,"473,85",18/11/2019,9:01,9,11
+Brasil,Amazonas,Manaus,Brasil,Pernambuco,Recife,"324,85",18/11/2019,9:01,9,11
+Portugal,,Porto,Brasil,Piauí,Teresina,"7003,03",14/11/2019,14:06,14,11
+Brasil,São Paulo,São Paulo,Estados Unidos da América,,Washington,"2689,75",16/11/2019,10:09,10,11
+Estados Unidos da América,,Washington,Brasil,São Paulo,São Paulo,"2689,75",16/11/2019,10:09,10,11
+Ucrânia,,Kiev,Brasil,Bahia,Salvador,"7551,11",08/11/2019,19:01,19,8
+Ucrânia,,Kiev,Brasil,Bahia,Salvador,"7551,11",08/11/2019,19:03,19,8
+Brasil,Santa Catarina,Florianópolis,Brasil,Distrito Federal,Brasília,"623,26",09/11/2019,11:25,11,9
+Brasil,Sergipe,Aracaju,Brasil,Distrito Federal,Brasília,"1269,83",09/11/2019,12:05,12,9
+Brasil,Distrito Federal,Brasília,Brasil,Pará,Belém,"965,52",09/11/2019,12:26,12,9
+Uruguai,,Montevidéu,Brasil,Paraná,Curitiba,"1020,45",14/11/2019,18:24,18,11
+Brasil,Paraná,Curitiba,Uruguai,,Montevidéu,"1020,45",14/11/2019,18:24,18,11
+Brasil,Minas Gerais,Belo Horizonte,Brasil,Distrito Federal,Brasília,"440,46",11/11/2019,17:06,17,11
+Brasil,Distrito Federal,Brasília,Brasil,São Paulo,São Paulo,"350,57",12/11/2019,17:05,17,12
+Brasil,São Paulo,São Paulo,Brasil,Distrito Federal,Brasília,"187,85",12/11/2019,17:05,17,12
+Brasil,Sergipe,Aracaju,Brasil,Pernambuco,Recife,"1337,06",13/02/2020,14:42,14,2
+Brasil,Pernambuco,Recife,Brasil,Sergipe,Aracaju,"1524,47",13/02/2020,14:42,14,2
+Brasil,Distrito Federal,Brasília,Brasil,São Paulo,Campinas,"462,22",11/11/2019,16:36,16,11
+Brasil,São Paulo,Campinas,Brasil,Distrito Federal,Brasília,"213,28",11/11/2019,16:36,16,11
+Brasil,Rio Grande do Norte,Natal,Brasil,Sergipe,Aracaju,"1907,04",12/02/2020,10:17,10,12
+Brasil,Sergipe,Aracaju,Brasil,Rio Grande do Norte,Natal,"822,06",12/02/2020,10:18,10,12
+Brasil,Paraná,Maringá,Brasil,Sergipe,Aracaju,"881,17",13/02/2020,13:31,13,2
+Brasil,Sergipe,Aracaju,Brasil,Paraná,Maringá,"1061,06",13/02/2020,13:31,13,2
+Brasil,Distrito Federal,Brasília,Brasil,São Paulo,Campinas,"188,68",11/11/2019,19:27,19,11
+Brasil,São Paulo,Campinas,Brasil,Distrito Federal,Brasília,"280,54",11/11/2019,19:27,19,11
+Brasil,São Paulo,São Paulo,Brasil,Distrito Federal,Brasília,"129,85",12/11/2019,6:58,6,12
+Brasil,Distrito Federal,Brasília,Brasil,São Paulo,São Paulo,"225,57",12/11/2019,6:58,6,12
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Sergipe,Aracaju,"811,47",30/01/2020,17:00,17,1
+Brasil,Sergipe,Aracaju,Brasil,Rio de Janeiro,Rio de Janeiro,"804,16",30/01/2020,17:00,17,1
+Brasil,Sergipe,Aracaju,Brasil,Bahia,Vitória da Conquista,"521,79",17/02/2020,14:29,14,2
+Brasil,Bahia,Vitória da Conquista,Brasil,Sergipe,Aracaju,"985,06",17/02/2020,14:29,14,2
+Brasil,Bahia,Salvador,Brasil,Pará,Marabá,"2711,7",05/03/2020,11:22,11,5
+Brasil,Distrito Federal,Brasília,Brasil,Bahia,Salvador,"849,27",12/11/2019,16:29,16,12
+Brasil,Rio Grande do Sul,Porto Alegre,Brasil,Minas Gerais,Uberlândia,"744,51",12/11/2019,16:28,16,12
+Brasil,Rio Grande do Sul,Porto Alegre,Brasil,Minas Gerais,Uberlândia,"1222,93",09/01/2020,14:50,14,9
+Brasil,Minas Gerais,Uberlândia,Brasil,Rio Grande do Sul,Porto Alegre,"657,6",12/11/2019,16:19,16,12
+Brasil,Distrito Federal,Brasília,Brasil,Bahia,Salvador,"414,69",12/11/2019,16:11,16,12
+Brasil,Bahia,Salvador,Brasil,Distrito Federal,Brasília,"316,03",12/11/2019,16:11,16,12
+Brasil,Distrito Federal,Brasília,Brasil,Bahia,Salvador,"702,8",13/11/2019,17:51,17,11
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Distrito Federal,Brasília,"439,42",11/11/2019,18:53,18,11
+Brasil,Paraíba,João Pessoa,Brasil,Rio Grande do Sul,Porto Alegre,"1104,78",12/11/2019,17:33,17,12
+Brasil,Rio Grande do Sul,Porto Alegre,Brasil,Paraíba,João Pessoa,"607,69",12/11/2019,17:33,17,12
+Espanha,,Sevilha,Brasil,Distrito Federal,Brasília,"4350,63",18/11/2019,17:48,17,11
+Brasil,Distrito Federal,Brasília,Espanha,,Bilbao,"5023,24",12/11/2019,15:11,15,12
+Brasil,Bahia,Porto Seguro,Brasil,Ceará,Juazeiro do Norte,"721,79",14/11/2019,18:26,18,11
+Brasil,Ceará,Juazeiro do Norte,Brasil,Bahia,Porto Seguro,"804,79",14/11/2019,18:26,18,11
+Peru,,Lima,Brasil,Paraná,Foz do Iguaçu,"723,38",13/11/2019,15:24,15,11
+Brasil,Paraná,Foz do Iguaçu,Peru,,Lima,"723,38",13/11/2019,15:24,15,11
+Brasil,Mato Grosso,Cuiabá,Brasil,Mato Grosso do Sul,Campo Grande,"559,64",12/11/2019,14:54,14,12
+Brasil,Mato Grosso,Cuiabá,Brasil,Mato Grosso do Sul,Campo Grande,"559,64",12/11/2019,15:10,15,12
+Brasil,Mato Grosso,Cuiabá,Brasil,Mato Grosso do Sul,Campo Grande,"559,64",12/11/2019,15:15,15,12
+Brasil,Mato Grosso,Cuiabá,Brasil,Mato Grosso do Sul,Campo Grande,"559,64",12/11/2019,15:13,15,12
+Brasil,Mato Grosso,Cuiabá,Brasil,Mato Grosso do Sul,Campo Grande,"559,64",12/11/2019,15:17,15,12
+Brasil,Mato Grosso,Cuiabá,Brasil,Mato Grosso do Sul,Campo Grande,"559,64",12/11/2019,15:25,15,12
+Brasil,Distrito Federal,Brasília,Brasil,Rio de Janeiro,Rio de Janeiro,"1021,62",13/11/2019,11:34,11,11
+Brasil,Minas Gerais,Belo Horizonte,Brasil,São Paulo,São Paulo,"409,18",26/12/2019,16:36,16,12
+Brasil,Pará,Belém,Brasil,Distrito Federal,Brasília,"712,85",13/12/2019,10:50,10,12
+Brasil,Distrito Federal,Brasília,Brasil,Pará,Belém,"509,57",13/12/2019,10:50,10,12
+Brasil,Mato Grosso,Cuiabá,Brasil,Mato Grosso do Sul,Campo Grande,"187,85",13/11/2019,9:19,9,11
+Brasil,Minas Gerais,Belo Horizonte,Portugal,,Lisboa,"4676,54",18/11/2019,11:30,11,11
+Brasil,Paraíba,João Pessoa,Brasil,Ceará,Fortaleza,"840,22",13/11/2019,16:25,16,11
+Brasil,Ceará,Fortaleza,Brasil,Paraíba,João Pessoa,"769,13",13/11/2019,16:25,16,11
+Brasil,Paraná,Foz do Iguaçu,Peru,,Lima,"723,38",13/11/2019,15:28,15,11
+Peru,,Lima,Brasil,Paraná,Foz do Iguaçu,"723,38",13/11/2019,15:28,15,11
+Brasil,Ceará,Fortaleza,Brasil,Paraíba,João Pessoa,"769,13",13/11/2019,16:20,16,11
+Brasil,Paraíba,João Pessoa,Brasil,Ceará,Fortaleza,"840,22",13/11/2019,16:20,16,11
+Brasil,Ceará,Fortaleza,Brasil,Paraíba,João Pessoa,"769,13",13/11/2019,16:33,16,11
+Brasil,Paraíba,João Pessoa,Brasil,Ceará,Fortaleza,"840,22",13/11/2019,16:33,16,11
+Brasil,Minas Gerais,Belo Horizonte,Brasil,Paraíba,João Pessoa,"395,61",15/11/2019,21:07,21,11
+Brasil,Paraíba,João Pessoa,Brasil,Minas Gerais,Belo Horizonte,"389,81",15/11/2019,21:07,21,11
+Brasil,Distrito Federal,Brasília,França,,Paris,"2515,88",14/11/2019,14:21,14,11
+França,,Paris,Brasil,Distrito Federal,Brasília,2516,14/11/2019,14:21,14,11
+Brasil,Minas Gerais,Belo Horizonte,Brasil,São Paulo,São Paulo,"128,59",22/11/2019,14:53,14,11
+Brasil,São Paulo,São Paulo,Brasil,Minas Gerais,Belo Horizonte,"226,85",22/11/2019,14:53,14,11
+Brasil,Paraná,Pato Branco,Brasil,São Paulo,São Paulo,"315,73",13/11/2019,15:35,15,11
+Brasil,Pernambuco,Recife,Brasil,Piauí,Teresina,"663,64",13/11/2019,21:52,21,11
+Brasil,Paraná,Foz do Iguaçu,Brasil,Pará,Santarém,"991,74",16/03/2020,17:59,17,3
+Brasil,Pará,Santarém,Brasil,Paraná,Foz do Iguaçu,"984,68",16/03/2020,17:59,17,3
+Brasil,Paraná,Foz do Iguaçu,Brasil,Pará,Santarém,"554,95",14/11/2019,10:15,10,11
+Brasil,Pará,Santarém,Brasil,Paraná,Foz do Iguaçu,"547,89",14/11/2019,10:15,10,11
+Brasil,Pará,Santarém,Brasil,Paraná,Foz do Iguaçu,"984,68",22/04/2020,9:39,9,4
+Brasil,Paraná,Foz do Iguaçu,Brasil,Pará,Santarém,"991,74",22/04/2020,9:39,9,4
+Brasil,Pará,Santarém,Brasil,Paraná,Foz do Iguaçu,"547,89",14/11/2019,10:13,10,11
+Brasil,Paraná,Foz do Iguaçu,Brasil,Pará,Santarém,"554,95",14/11/2019,10:13,10,11
+Brasil,Paraná,Foz do Iguaçu,Brasil,Pará,Santarém,"554,95",14/11/2019,10:09,10,11
+Brasil,Pará,Santarém,Brasil,Paraná,Foz do Iguaçu,"547,89",14/11/2019,10:09,10,11
+Brasil,Paraná,Curitiba,Brasil,São Paulo,Guarulhos,"163,85",14/11/2019,18:14,18,11
+Brasil,São Paulo,Guarulhos,Portugal,,Lisboa,"2675,64",14/11/2019,18:14,18,11
+Portugal,,Lisboa,Brasil,Paraná,Curitiba,"2228,47",20/11/2019,14:31,14,11
+Brasil,Distrito Federal,Brasília,Brasil,Paraíba,João Pessoa,"619,37",18/11/2019,14:44,14,11
+Brasil,Paraíba,João Pessoa,Brasil,Distrito Federal,Brasília,"766,77",18/11/2019,14:44,14,11
+Brasil,Paraíba,João Pessoa,Brasil,Paraná,Foz do Iguaçu,"488,5",12/03/2020,15:06,15,12
+Brasil,Paraná,Foz do Iguaçu,Brasil,Paraíba,João Pessoa,"587,95",18/11/2019,15:21,15,11
+Brasil,Paraíba,João Pessoa,Brasil,Paraná,Foz do Iguaçu,"579,89",18/11/2019,15:21,15,11
+Brasil,Paraíba,João Pessoa,Brasil,Paraná,Foz do Iguaçu,"580,89",18/11/2019,15:09,15,11
+Brasil,Paraíba,João Pessoa,Brasil,Paraná,Foz do Iguaçu,"488,5",12/03/2020,15:11,15,12
+Brasil,Paraná,Foz do Iguaçu,Brasil,Paraíba,João Pessoa,"582,95",18/11/2019,15:09,15,11
+Brasil,Paraíba,João Pessoa,Brasil,Paraná,Foz do Iguaçu,"488,5",12/03/2020,15:03,15,12
+Brasil,Paraná,Foz do Iguaçu,Brasil,Paraíba,João Pessoa,"587,95",18/11/2019,15:15,15,11
+Brasil,Paraíba,João Pessoa,Brasil,Paraná,Foz do Iguaçu,"580,89",18/11/2019,15:15,15,11
+Brasil,Minas Gerais,Belo Horizonte,Brasil,Paraíba,João Pessoa,"414,51",21/11/2019,14:42,14,11
+Brasil,Paraíba,João Pessoa,Brasil,Minas Gerais,Belo Horizonte,"408,71",21/11/2019,14:42,14,11
+Brasil,Distrito Federal,Brasília,Brasil,Mato Grosso do Sul,Campo Grande,"478,57",26/11/2019,13:57,13,11
+Brasil,Mato Grosso do Sul,Campo Grande,Brasil,Distrito Federal,Brasília,"319,79",26/11/2019,13:57,13,11
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Distrito Federal,Brasília,"765,42",14/11/2019,14:57,14,11
+Brasil,Paraíba,João Pessoa,Brasil,Distrito Federal,Brasília,"510,79",18/11/2019,15:27,15,11
+Brasil,Distrito Federal,Brasília,Brasil,Paraíba,João Pessoa,"935,65",15/11/2019,21:10,21,11
+Brasil,Distrito Federal,Brasília,Brasil,Rio de Janeiro,Rio de Janeiro,"191,59",14/11/2019,20:06,20,11
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Distrito Federal,Brasília,"193,87",14/11/2019,20:06,20,11
+Brasil,Distrito Federal,Brasília,Brasil,Rio de Janeiro,Rio de Janeiro,"191,59",14/11/2019,20:38,20,11
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Distrito Federal,Brasília,"274,25",14/11/2019,20:38,20,11
+Brasil,Distrito Federal,Brasília,Brasil,Rio de Janeiro,Rio de Janeiro,"191,59",14/11/2019,19:59,19,11
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Distrito Federal,Brasília,"274,25",14/11/2019,19:59,19,11
+Brasil,Rio de Janeiro,Rio de Janeiro,Brasil,Distrito Federal,Brasília,"274,25",14/11/2019,20:16,20,11
+Brasil,Distrito Federal,Brasília,Brasil,Rio de Janeiro,Rio de Janeiro,"191,59",14/11/2019,20:16,20,11
+Brasil,Distrito Federal,Brasília,Brasil,Rio de Janeiro,Rio de Janeiro,"191,59",14/11/2019,19:47,19,11
